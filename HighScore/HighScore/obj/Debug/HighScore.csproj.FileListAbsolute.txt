@@ -1,0 +1,10 @@
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\bin\Debug\HighScore.exe.config
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\bin\Debug\HighScore.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\bin\Debug\HighScore.pdb
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.Form1.resources
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.Properties.Resources.resources
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.csproj.GenerateResource.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.csproj.CoreCompileInputs.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #8\HighScore\HighScore\obj\Debug\HighScore.pdb
